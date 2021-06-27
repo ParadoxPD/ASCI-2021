@@ -52,14 +52,20 @@ for analyzing and using light spectrum intensity for the better growth and susta
  2. [Priyanshu Das](https://github.com/ParadoxPD/)
  3. [Pratyush Ranjan Pani](https://github.com/Helios-Asc)
 
-## Research Data used :
- - [EFFECTS OF BLUE AND GREEN LIGHT ON PLANT GROWTH
+## **Resources** : 
+
+- ### **Research Data used** :
+   - [EFFECTS OF BLUE AND GREEN LIGHT ON PLANT GROWTH
 AND DEVELOPMENT AT LOW AND HIGH
 PHOTOSYNTHETIC PHOTON FLUX
 ](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=5650&context=etd)
 
- - [How Plants Use Light? 3 LED Spectrums [Full Breakdown]](https://www.youtube.com/watch?v=NMVP7Nvew0A)
+  - [How Plants Use Light? 3 LED Spectrums [Full Breakdown]](https://www.youtube.com/watch?v=NMVP7Nvew0A)
 
- - [The Effect of Different Wavelengths of Light on the Rate of Photosynthesis](https://www.youtube.com/watch?v=H1yv4NtFT3A)
+  - [The Effect of Different Wavelengths of Light on the Rate of Photosynthesis](https://www.youtube.com/watch?v=H1yv4NtFT3A)
 
- - [Leaf Pigments and Light](https://www.youtube.com/watch?v=dwz3qozDiyI)
+  - [Leaf Pigments and Light](https://www.youtube.com/watch?v=dwz3qozDiyI)
+
+
+- ### **Backend** : 
+  - [Create A REST API](https://www.simplecode.io/blog/create-a-rest-api-part-2-postgresql-with-knex-setup/) 
